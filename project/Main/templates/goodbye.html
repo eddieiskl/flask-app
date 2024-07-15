@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goodbye</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .goodbye-container {
+            margin-top: 50px;
+            text-align: center;
+        }
+        .goodbye-container h1 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body class="bg-light" onload="playQuitSound()">
+    <div class="container goodbye-container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8 text-center">
+                <h1 class="mt-5">Goodbye!</h1>
+                <div class="alert alert-warning" role="alert">
+                    <p>Thank you for playing the World of Games!</p>
+                    {% if quit_gif %}
+                        <img src="{{ quit_gif }}" class="img-fluid my-4" alt="Goodbye GIF">
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <audio id="quit-sound" src="{{ url_for('static', filename='sounds/quit.mp3') }}"></audio>
+    <script>
+        function playQuitSound() {
+            document.getElementById('quit-sound').play();
+        }
+    </script>
+</body>
+</html>

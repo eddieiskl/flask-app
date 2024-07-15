@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Result</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .result-container {
+            margin-top: 50px;
+            text-align: center;
+        }
+        .result-container h1 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+        .btn:hover {
+            background-color: #0056b3 !important;
+            border-color: #004085 !important;
+        }
+    </style>
+</head>
+<body class="bg-light" onload="playResultSound()">
+    <div class="container result-container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8 text-center">
+                <h1 class="mt-5">Game Result</h1>
+                <div class="alert alert-info" role="alert">
+                    <h2>You {{ result }}!</h2>
+                    <p>The correct answer was: {{ correct_answer }}</p>
+                    {% if result_gif %}
+                        <img src="{{ result_gif }}" class="img-fluid my-4" alt="Result GIF">
+                    {% endif %}
+                </div>
+                <form method="POST" action="/result" class="mt-4">
+                    <button type="submit" class="btn btn-secondary btn-block" name="choice" value="r">Retry</button>
+                    <button type="submit" class="btn btn-secondary btn-block" name="choice" value="m">Main Menu</button>
+                    <button type="submit" class="btn btn-danger btn-block" name="choice" value="q">Quit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <audio id="win-sound" src="{{ url_for('static', filename='sounds/win.mp3') }}"></audio>
+    <audio id="lose-sound" src="{{ url_for('static', filename='sounds/lose.mp3') }}"></audio>
+    <script>
+        function playResultSound() {
+            if ("{{ result }}" === "won") {
+                document.getElementById('win-sound').play();
+            } else if ("{{ result }}" === "lost") {
+                document.getElementById('lose-sound').play();
+            }
+        }
+    </script>
+</body>
+</html>

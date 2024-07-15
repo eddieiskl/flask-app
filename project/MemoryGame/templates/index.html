@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Memory Game Welcome</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <h1>Welcome to Memory Game</h1>
+    <form method="POST">
+        <label for="player_name">Enter your name:</label>
+        <input type="text" id="player_name" name="player_name" required>
+        <button type="submit">Start</button>
+    </form>
+    <img src="{{ welcome_gif }}" alt="Welcome GIF">
+</body>
+</html>

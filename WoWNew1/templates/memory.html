@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Memory Game</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .container { max-width: 600px; margin: auto; padding: 20px; text-align: center; }
+        .button { background-color: #4CAF50; color: white; padding: 10px 20px; border: none; cursor: pointer; }
+        .button:hover { background-color: #45a049; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Memory Game</h1>
+        <form action="/play_memory" method="post">
+            <label for="difficulty">Choose difficulty (1-5):</label><br>
+            <input type="number" id="difficulty" name="difficulty" min="1" max="5" required><br><br>
+            <button type="submit" class="button">Play</button>
+        </form>
+    </div>
+</body>
+</html>

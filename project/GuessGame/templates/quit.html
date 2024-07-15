@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quit Confirmation</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .quit-container {
+            margin-top: 50px;
+            text-align: center;
+        }
+        .quit-container h1 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <div class="container quit-container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8 text-center">
+                <h1 class="mt-5">Are you sure you want to quit?</h1>
+                <div class="alert alert-warning" role="alert">
+                    {% if quit_gif %}
+                        <img src="{{ quit_gif }}" class="img-fluid my-4" alt="Goodbye GIF">
+                    {% endif %}
+                </div>
+                <form method="POST" action="/quit" class="mt-4">
+                    <button type="submit" class="btn btn-danger btn-block" name="choice" value="confirm">Yes, Quit</button>
+                    <button type="submit" class="btn btn-secondary btn-block" name="choice" value="cancel">No, Go Back</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

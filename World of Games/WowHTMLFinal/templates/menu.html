@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Menu</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .menu-container {
+            margin-top: 50px;
+            text-align: center;
+        }
+        .menu-container h1 {
+            font-size: 2rem;
+            margin-bottom: 30px;
+        }
+        .btn-group-toggle .btn {
+            margin: 5px;
+        }
+        .btn-group-toggle .btn:hover {
+            background-color: #0056b3;
+            color: white;
+        }
+        .btn-group-toggle .btn-primary.active, .btn-primary.active:hover, .btn-primary.active:focus {
+            background-color: #004085 !important;
+            border-color: #004085 !important;
+        }
+        .btn-group-toggle .btn-secondary.active, .btn-secondary.active:hover, .btn-secondary.active:focus {
+            background-color: #0056b3 !important;
+            border-color: #0056b3 !important;
+        }
+        .btn-group-toggle .btn-danger.active, .btn-danger.active:hover, .btn-danger.active:focus {
+            background-color: #b30000 !important;
+            border-color: #800000 !important;
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <div class="container menu-container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10">
+                <h1>{{ welcome_message }}</h1>
+                <form method="POST" action="/menu" class="mt-4">
+                    <div class="form-group">
+                        <label>Choose a game:</label>
+                        <div class="btn-group btn-group-toggle d-flex flex-column flex-md-row" data-toggle="buttons">
+                            <label class="btn btn-primary m-2 flex-fill" onclick="playClickSound()">
+                                <input type="radio" name="game_choice" value="1" required> Memory Game - a sequence of numbers will appear for 1 second and you have to guess it back
+                            </label>
+                            <label class="btn btn-primary m-2 flex-fill" onclick="playClickSound()">
+                                <input type="radio" name="game_choice" value="2" required> Guess Game - guess a number and see if you chose like the computer
+                            </label>
+                            <label class="btn btn-primary m-2 flex-fill" onclick="playClickSound()">
+                                <input type="radio" name="game_choice" value="3" required> Currency Roulette - try and guess the value of a random amount of USD in ILS
+                            </label>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Choose difficulty (1 to 5):</label>
+                        <div class="btn-group btn-group-toggle d-flex flex-column flex-md-row" data-toggle="buttons">
+                            <label class="btn btn-secondary m-2 flex-fill" onclick="playClickSound()">
+                                <input type="radio" name="difficulty" value="1" required> 1 - Very Easy
+                            </label>
+                            <label class="btn btn-secondary m-2 flex-fill" onclick="playClickSound()">
+                                <input type="radio" name="difficulty" value="2" required> 2 - Easy
+                            </label>
+                            <label class="btn btn-secondary m-2 flex-fill" onclick="playClickSound()">
+                                <input type="radio" name="difficulty" value="3" required> 3 - Medium
+                            </label>
+                            <label class="btn btn-secondary m-2 flex-fill" onclick="playClickSound()">
+                                <input type="radio" name="difficulty" value="4" required> 4 - Hard
+                            </label>
+                            <label class="btn btn-secondary m-2 flex-fill" onclick="playClickSound()">
+                                <input type="radio" name="difficulty" value="5" required> 5 - Very Hard
+                            </label>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block" onclick="playClickSound()">Play</button>
+                </form>
+                <form method="POST" action="/quit" class="mt-3">
+                    <button type="submit" class="btn btn-danger btn-block" onclick="playClickSound()">Quit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <audio id="click-sound" src="{{ url_for('static', filename='sounds/click.mp3') }}"></audio>
+    <script>
+        function playClickSound() {
+            document.getElementById('click-sound').play();
+        }
+    </script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

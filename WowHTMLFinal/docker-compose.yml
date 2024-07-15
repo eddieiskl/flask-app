@@ -1,0 +1,40 @@
+version: '3'
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    depends_on:
+      - memory_game
+      - guess_game
+      - currency_roulette
+
+  memory_game:
+    build:
+      context: ./MemoryGame
+      dockerfile: Dockerfile
+    ports:
+      - "5001:5000"
+
+  guess_game:
+    build:
+      context: ./GuessGame
+      dockerfile: Dockerfile
+    ports:
+      - "5002:5000"
+
+  currency_roulette:
+    build:
+      context: ./CurrencyRoulette
+      dockerfile: Dockerfile
+    ports:
+      - "5003:5000"
+
+  nginx:
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+    depends_on:
+      - web

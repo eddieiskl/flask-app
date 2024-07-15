@@ -1,0 +1,55 @@
+<!-- templates/result.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Game Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #333;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 20px;
+            margin: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            margin: 20px auto;
+            border-radius: 10px;
+            max-width: 600px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>You {{ result }}!</h1>
+        {% if result == 'won' %}
+            <p>Congratulations! You guessed the correct number: {{ correct_answer }}.</p>
+        {% else %}
+            <p>Sorry, the correct number was: {{ correct_answer }}.</p>
+        {% endif %}
+        <img src="{{ result_gif }}" alt="result gif">
+        <form method="post">
+            <button type="submit" name="choice" value="r">Retry</button>
+            <button type="submit" name="choice" value="m">Main Menu</button>
+            <button type="submit" name="choice" value="q">Quit</button>
+            <button type="submit" name="choice" value="s">View High Scores</button>
+        </form>
+    </div>
+</body>
+</html>

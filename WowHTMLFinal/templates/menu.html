@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Menu</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .menu-container {
+            margin-top: 50px;
+            text-align: center;
+        }
+        .menu-container h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+        .menu-container .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+            background-color: #0056b3 !important;
+            border-color: #004085 !important;
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <div class="container menu-container">
+        <h1>Welcome, {{ player_name }}!</h1>
+        <p class="lead">Choose a game and difficulty level to start playing:</p>
+        <form method="GET" action="/memory_game/1">
+            <button type="submit" class="btn btn-primary btn-block">Memory Game - Easy</button>
+        </form>
+        <form method="GET" action="/memory_game/2">
+            <button type="submit" class="btn btn-primary btn-block">Memory Game - Medium</button>
+        </form>
+        <form method="GET" action="/memory_game/3">
+            <button type="submit" class="btn btn-primary btn-block">Memory Game - Hard</button>
+        </form>
+        <!-- Add similar forms for other games -->
+    </div>
+</body>
+</html>

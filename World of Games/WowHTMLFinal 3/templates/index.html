@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World of Games</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .welcome-container {
+            margin-top: 50px;
+            text-align: center;
+        }
+        .welcome-container h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+        .welcome-container img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+            background-color: #0056b3 !important;
+            border-color: #004085 !important;
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <div class="container welcome-container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8 col-lg-6">
+                <h1>Welcome to the World of Games!</h1>
+                <p class="lead">Prepare yourself for an exciting adventure filled with challenges and fun!</p>
+                {% if welcome_gif %}
+                    <img src="{{ welcome_gif }}" alt="Welcome GIF">
+                {% endif %}
+                <form method="POST" action="/">
+                    <div class="form-group">
+                        <label for="player_name">Enter your name (or 'q' to quit):</label>
+                        <input type="text" class="form-control" id="player_name" name="player_name" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block" onclick="playClickSound()">Start</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <audio id="click-sound" src="{{ url_for('static', filename='sounds/click.mp3') }}"></audio>
+    <script>
+        function playClickSound() {
+            document.getElementById('click-sound').play();
+        }
+    </script>
+</body>
+</html>

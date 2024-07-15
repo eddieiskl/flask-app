@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Memory Game</title>
+</head>
+<body>
+    <h1>Memory Game</h1>
+    <p>Difficulty Level: {{ difficulty }}</p>
+    <p>{{ sequence }}</p>
+    <form action="/memory_game/{{ difficulty }}" method="POST">
+        <input type="text" name="user_input" placeholder="Enter the sequence">
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 50px;
+        }
+        .hidden {
+            display: none;
+        }
+    </style>
+    <script>
+        function hideSequence() {
+            setTimeout(function() {
+                document.getElementById('sequence').classList.add('hidden');
+            }, 1000);
+        }
+        window.onload = hideSequence;
+    </script>
+</head>
+<body>
+    <h1>Play Game</h1>
+    <p id="sequence">Remember this sequence: {{ sequence }}</p>
+    <form action="/play" method="POST">
+        <label for="user_answer">Your Answer:</label>
+        <input type="text" id="user_answer" name="user_answer">
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

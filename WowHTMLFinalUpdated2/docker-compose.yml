@@ -1,0 +1,53 @@
+
+version: '3.8'
+
+services:
+  main_menu:
+    build:
+      context: .
+      dockerfile: Dockerfile.main_menu
+    expose:
+      - "5000"
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=development
+
+  nginx:
+    image: nginx:latest
+    ports:
+      - "443:443"
+      - "80:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./nginx/ssl/selfsigned.crt:/etc/nginx/ssl/selfsigned.crt
+      - ./nginx/ssl/selfsigned.key:/etc/nginx/ssl/selfsigned.key
+    depends_on:
+      - main_menu
+
+  memory_game:
+    build:
+      context: .
+      dockerfile: Dockerfile.memory_game
+    expose:
+      - "5001"
+    environment:
+      - FLASK_ENV=development
+
+  currency_roulette_game:
+    build:
+      context: .
+      dockerfile: Dockerfile.currency_roulette_game
+    expose:
+      - "5002"
+    environment:
+      - FLASK_ENV=development
+
+  guess_game:
+    build:
+      context: .
+      dockerfile: Dockerfile.guess_game
+    expose:
+      - "5003"
+    environment:
+      - FLASK_ENV=development

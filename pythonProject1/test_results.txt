@@ -1,0 +1,750 @@
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 1, People 1. Expected $16.00, got $16.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 1, People 2. Expected $9.50, got $9.50
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 1, People 3. Expected $8.00, got $8.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 1, People 4. Expected $7.75, got $7.75
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 1, People 5. Expected $8.00, got $8.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 2, People 1. Expected $17.00, got $17.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 2, People 2. Expected $11.50, got $11.50
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 2, People 3. Expected $11.00, got $11.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 2, People 4. Expected $11.75, got $11.75
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 2, People 5. Expected $13.00, got $13.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 3, People 1. Expected $18.00, got $18.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 3, People 2. Expected $13.50, got $13.50
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 3, People 3. Expected $14.00, got $14.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 3, People 4. Expected $15.75, got $15.75
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 3, People 5. Expected $18.00, got $18.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 4, People 1. Expected $19.00, got $19.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 4, People 2. Expected $15.50, got $15.50
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 4, People 3. Expected $17.00, got $17.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 4, People 4. Expected $19.75, got $19.75
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 4, People 5. Expected $23.00, got $23.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 5, People 1. Expected $20.00, got $20.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 5, People 2. Expected $17.50, got $17.50
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 5, People 3. Expected $20.00, got $20.00
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 5, People 4. Expected $23.75, got $23.75
+Test passed: Bill 50, Service Quality 30% - Outstanding, Music Satisfaction 5, People 5. Expected $28.00, got $28.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 1, People 1. Expected $11.00, got $11.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 1, People 2. Expected $7.00, got $7.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 1, People 3. Expected $6.33, got $6.33
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 1, People 4. Expected $6.50, got $6.50
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 1, People 5. Expected $7.00, got $7.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 2, People 1. Expected $12.00, got $12.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 2, People 2. Expected $9.00, got $9.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 2, People 3. Expected $9.33, got $9.33
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 2, People 4. Expected $10.50, got $10.50
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 2, People 5. Expected $12.00, got $12.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 3, People 1. Expected $13.00, got $13.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 3, People 2. Expected $11.00, got $11.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 3, People 3. Expected $12.33, got $12.33
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 3, People 4. Expected $14.50, got $14.50
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 3, People 5. Expected $17.00, got $17.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 4, People 1. Expected $14.00, got $14.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 4, People 2. Expected $13.00, got $13.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 4, People 3. Expected $15.33, got $15.33
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 4, People 4. Expected $18.50, got $18.50
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 4, People 5. Expected $22.00, got $22.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 5, People 1. Expected $15.00, got $15.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 5, People 2. Expected $15.00, got $15.00
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 5, People 3. Expected $18.33, got $18.33
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 5, People 4. Expected $22.50, got $22.50
+Test passed: Bill 50, Service Quality 20% - Good, Music Satisfaction 5, People 5. Expected $27.00, got $27.00
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 1, People 1. Expected $8.50, got $8.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 1, People 2. Expected $5.75, got $5.75
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 1, People 3. Expected $5.50, got $5.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 1, People 4. Expected $5.88, got $5.88
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 1, People 5. Expected $6.50, got $6.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 2, People 1. Expected $9.50, got $9.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 2, People 2. Expected $7.75, got $7.75
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 2, People 3. Expected $8.50, got $8.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 2, People 4. Expected $9.88, got $9.88
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 2, People 5. Expected $11.50, got $11.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 3, People 1. Expected $10.50, got $10.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 3, People 2. Expected $9.75, got $9.75
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 3, People 3. Expected $11.50, got $11.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 3, People 4. Expected $13.88, got $13.88
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 3, People 5. Expected $16.50, got $16.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 4, People 1. Expected $11.50, got $11.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 4, People 2. Expected $11.75, got $11.75
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 4, People 3. Expected $14.50, got $14.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 4, People 4. Expected $17.88, got $17.88
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 4, People 5. Expected $21.50, got $21.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 5, People 1. Expected $12.50, got $12.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 5, People 2. Expected $13.75, got $13.75
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 5, People 3. Expected $17.50, got $17.50
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 5, People 4. Expected $21.88, got $21.88
+Test passed: Bill 50, Service Quality 15% - It was OK, Music Satisfaction 5, People 5. Expected $26.50, got $26.50
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 1, People 1. Expected $6.00, got $6.00
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 1, People 2. Expected $4.50, got $4.50
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 1, People 3. Expected $4.67, got $4.67
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 1, People 4. Expected $5.25, got $5.25
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 1, People 5. Expected $6.00, got $6.00
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 2, People 1. Expected $7.00, got $7.00
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 2, People 2. Expected $6.50, got $6.50
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 2, People 3. Expected $7.67, got $7.67
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 2, People 4. Expected $9.25, got $9.25
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 2, People 5. Expected $11.00, got $11.00
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 3, People 1. Expected $8.00, got $8.00
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 3, People 2. Expected $8.50, got $8.50
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 3, People 3. Expected $10.67, got $10.67
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 3, People 4. Expected $13.25, got $13.25
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 3, People 5. Expected $16.00, got $16.00
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 4, People 1. Expected $9.00, got $9.00
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 4, People 2. Expected $10.50, got $10.50
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 4, People 3. Expected $13.67, got $13.67
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 4, People 4. Expected $17.25, got $17.25
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 4, People 5. Expected $21.00, got $21.00
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 5, People 1. Expected $10.00, got $10.00
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 5, People 2. Expected $12.50, got $12.50
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 5, People 3. Expected $16.67, got $16.67
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 5, People 4. Expected $21.25, got $21.25
+Test passed: Bill 50, Service Quality 10% - Bad, Music Satisfaction 5, People 5. Expected $26.00, got $26.00
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 1, People 1. Expected $3.50, got $3.50
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 1, People 2. Expected $3.25, got $3.25
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 1, People 3. Expected $3.83, got $3.83
+Test failed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 1, People 4. Expected $4.62, but got $4.63
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 1, People 5. Expected $5.50, got $5.50
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 2, People 1. Expected $4.50, got $4.50
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 2, People 2. Expected $5.25, got $5.25
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 2, People 3. Expected $6.83, got $6.83
+Test failed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 2, People 4. Expected $8.62, but got $8.63
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 2, People 5. Expected $10.50, got $10.50
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 3, People 1. Expected $5.50, got $5.50
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 3, People 2. Expected $7.25, got $7.25
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 3, People 3. Expected $9.83, got $9.83
+Test failed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 3, People 4. Expected $12.62, but got $12.63
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 3, People 5. Expected $15.50, got $15.50
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 4, People 1. Expected $6.50, got $6.50
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 4, People 2. Expected $9.25, got $9.25
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 4, People 3. Expected $12.83, got $12.83
+Test failed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 4, People 4. Expected $16.62, but got $16.63
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 4, People 5. Expected $20.50, got $20.50
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 5, People 1. Expected $7.50, got $7.50
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 5, People 2. Expected $11.25, got $11.25
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 5, People 3. Expected $15.83, got $15.83
+Test failed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 5, People 4. Expected $20.62, but got $20.63
+Test passed: Bill 50, Service Quality 5% - Terrible, Music Satisfaction 5, People 5. Expected $25.50, got $25.50
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 1, People 1. Expected $31.00, got $31.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 1, People 2. Expected $17.00, got $17.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 1, People 3. Expected $13.00, got $13.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 1, People 4. Expected $11.50, got $11.50
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 1, People 5. Expected $11.00, got $11.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 2, People 1. Expected $32.00, got $32.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 2, People 2. Expected $19.00, got $19.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 2, People 3. Expected $16.00, got $16.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 2, People 4. Expected $15.50, got $15.50
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 2, People 5. Expected $16.00, got $16.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 3, People 1. Expected $33.00, got $33.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 3, People 2. Expected $21.00, got $21.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 3, People 3. Expected $19.00, got $19.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 3, People 4. Expected $19.50, got $19.50
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 3, People 5. Expected $21.00, got $21.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 4, People 1. Expected $34.00, got $34.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 4, People 2. Expected $23.00, got $23.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 4, People 3. Expected $22.00, got $22.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 4, People 4. Expected $23.50, got $23.50
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 4, People 5. Expected $26.00, got $26.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 5, People 1. Expected $35.00, got $35.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 5, People 2. Expected $25.00, got $25.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 5, People 3. Expected $25.00, got $25.00
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 5, People 4. Expected $27.50, got $27.50
+Test passed: Bill 100, Service Quality 30% - Outstanding, Music Satisfaction 5, People 5. Expected $31.00, got $31.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 1, People 1. Expected $21.00, got $21.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 1, People 2. Expected $12.00, got $12.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 1, People 3. Expected $9.67, got $9.67
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 1, People 4. Expected $9.00, got $9.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 1, People 5. Expected $9.00, got $9.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 2, People 1. Expected $22.00, got $22.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 2, People 2. Expected $14.00, got $14.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 2, People 3. Expected $12.67, got $12.67
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 2, People 4. Expected $13.00, got $13.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 2, People 5. Expected $14.00, got $14.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 3, People 1. Expected $23.00, got $23.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 3, People 2. Expected $16.00, got $16.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 3, People 3. Expected $15.67, got $15.67
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 3, People 4. Expected $17.00, got $17.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 3, People 5. Expected $19.00, got $19.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 4, People 1. Expected $24.00, got $24.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 4, People 2. Expected $18.00, got $18.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 4, People 3. Expected $18.67, got $18.67
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 4, People 4. Expected $21.00, got $21.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 4, People 5. Expected $24.00, got $24.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 5, People 1. Expected $25.00, got $25.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 5, People 2. Expected $20.00, got $20.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 5, People 3. Expected $21.67, got $21.67
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 5, People 4. Expected $25.00, got $25.00
+Test passed: Bill 100, Service Quality 20% - Good, Music Satisfaction 5, People 5. Expected $29.00, got $29.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 1, People 1. Expected $16.00, got $16.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 1, People 2. Expected $9.50, got $9.50
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 1, People 3. Expected $8.00, got $8.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 1, People 4. Expected $7.75, got $7.75
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 1, People 5. Expected $8.00, got $8.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 2, People 1. Expected $17.00, got $17.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 2, People 2. Expected $11.50, got $11.50
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 2, People 3. Expected $11.00, got $11.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 2, People 4. Expected $11.75, got $11.75
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 2, People 5. Expected $13.00, got $13.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 3, People 1. Expected $18.00, got $18.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 3, People 2. Expected $13.50, got $13.50
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 3, People 3. Expected $14.00, got $14.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 3, People 4. Expected $15.75, got $15.75
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 3, People 5. Expected $18.00, got $18.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 4, People 1. Expected $19.00, got $19.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 4, People 2. Expected $15.50, got $15.50
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 4, People 3. Expected $17.00, got $17.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 4, People 4. Expected $19.75, got $19.75
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 4, People 5. Expected $23.00, got $23.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 5, People 1. Expected $20.00, got $20.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 5, People 2. Expected $17.50, got $17.50
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 5, People 3. Expected $20.00, got $20.00
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 5, People 4. Expected $23.75, got $23.75
+Test passed: Bill 100, Service Quality 15% - It was OK, Music Satisfaction 5, People 5. Expected $28.00, got $28.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 1, People 1. Expected $11.00, got $11.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 1, People 2. Expected $7.00, got $7.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 1, People 3. Expected $6.33, got $6.33
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 1, People 4. Expected $6.50, got $6.50
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 1, People 5. Expected $7.00, got $7.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 2, People 1. Expected $12.00, got $12.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 2, People 2. Expected $9.00, got $9.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 2, People 3. Expected $9.33, got $9.33
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 2, People 4. Expected $10.50, got $10.50
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 2, People 5. Expected $12.00, got $12.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 3, People 1. Expected $13.00, got $13.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 3, People 2. Expected $11.00, got $11.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 3, People 3. Expected $12.33, got $12.33
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 3, People 4. Expected $14.50, got $14.50
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 3, People 5. Expected $17.00, got $17.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 4, People 1. Expected $14.00, got $14.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 4, People 2. Expected $13.00, got $13.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 4, People 3. Expected $15.33, got $15.33
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 4, People 4. Expected $18.50, got $18.50
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 4, People 5. Expected $22.00, got $22.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 5, People 1. Expected $15.00, got $15.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 5, People 2. Expected $15.00, got $15.00
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 5, People 3. Expected $18.33, got $18.33
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 5, People 4. Expected $22.50, got $22.50
+Test passed: Bill 100, Service Quality 10% - Bad, Music Satisfaction 5, People 5. Expected $27.00, got $27.00
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 1, People 1. Expected $6.00, got $6.00
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 1, People 2. Expected $4.50, got $4.50
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 1, People 3. Expected $4.67, got $4.67
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 1, People 4. Expected $5.25, got $5.25
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 1, People 5. Expected $6.00, got $6.00
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 2, People 1. Expected $7.00, got $7.00
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 2, People 2. Expected $6.50, got $6.50
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 2, People 3. Expected $7.67, got $7.67
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 2, People 4. Expected $9.25, got $9.25
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 2, People 5. Expected $11.00, got $11.00
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 3, People 1. Expected $8.00, got $8.00
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 3, People 2. Expected $8.50, got $8.50
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 3, People 3. Expected $10.67, got $10.67
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 3, People 4. Expected $13.25, got $13.25
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 3, People 5. Expected $16.00, got $16.00
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 4, People 1. Expected $9.00, got $9.00
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 4, People 2. Expected $10.50, got $10.50
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 4, People 3. Expected $13.67, got $13.67
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 4, People 4. Expected $17.25, got $17.25
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 4, People 5. Expected $21.00, got $21.00
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 5, People 1. Expected $10.00, got $10.00
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 5, People 2. Expected $12.50, got $12.50
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 5, People 3. Expected $16.67, got $16.67
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 5, People 4. Expected $21.25, got $21.25
+Test passed: Bill 100, Service Quality 5% - Terrible, Music Satisfaction 5, People 5. Expected $26.00, got $26.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 1, People 1. Expected $46.00, got $46.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 1, People 2. Expected $24.50, got $24.50
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 1, People 3. Expected $18.00, got $18.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 1, People 4. Expected $15.25, got $15.25
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 1, People 5. Expected $14.00, got $14.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 2, People 1. Expected $47.00, got $47.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 2, People 2. Expected $26.50, got $26.50
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 2, People 3. Expected $21.00, got $21.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 2, People 4. Expected $19.25, got $19.25
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 2, People 5. Expected $19.00, got $19.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 3, People 1. Expected $48.00, got $48.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 3, People 2. Expected $28.50, got $28.50
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 3, People 3. Expected $24.00, got $24.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 3, People 4. Expected $23.25, got $23.25
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 3, People 5. Expected $24.00, got $24.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 4, People 1. Expected $49.00, got $49.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 4, People 2. Expected $30.50, got $30.50
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 4, People 3. Expected $27.00, got $27.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 4, People 4. Expected $27.25, got $27.25
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 4, People 5. Expected $29.00, got $29.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 5, People 1. Expected $50.00, got $50.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 5, People 2. Expected $32.50, got $32.50
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 5, People 3. Expected $30.00, got $30.00
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 5, People 4. Expected $31.25, got $31.25
+Test passed: Bill 150, Service Quality 30% - Outstanding, Music Satisfaction 5, People 5. Expected $34.00, got $34.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 1, People 1. Expected $31.00, got $31.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 1, People 2. Expected $17.00, got $17.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 1, People 3. Expected $13.00, got $13.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 1, People 4. Expected $11.50, got $11.50
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 1, People 5. Expected $11.00, got $11.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 2, People 1. Expected $32.00, got $32.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 2, People 2. Expected $19.00, got $19.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 2, People 3. Expected $16.00, got $16.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 2, People 4. Expected $15.50, got $15.50
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 2, People 5. Expected $16.00, got $16.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 3, People 1. Expected $33.00, got $33.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 3, People 2. Expected $21.00, got $21.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 3, People 3. Expected $19.00, got $19.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 3, People 4. Expected $19.50, got $19.50
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 3, People 5. Expected $21.00, got $21.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 4, People 1. Expected $34.00, got $34.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 4, People 2. Expected $23.00, got $23.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 4, People 3. Expected $22.00, got $22.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 4, People 4. Expected $23.50, got $23.50
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 4, People 5. Expected $26.00, got $26.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 5, People 1. Expected $35.00, got $35.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 5, People 2. Expected $25.00, got $25.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 5, People 3. Expected $25.00, got $25.00
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 5, People 4. Expected $27.50, got $27.50
+Test passed: Bill 150, Service Quality 20% - Good, Music Satisfaction 5, People 5. Expected $31.00, got $31.00
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 1, People 1. Expected $23.50, got $23.50
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 1, People 2. Expected $13.25, got $13.25
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 1, People 3. Expected $10.50, got $10.50
+Test failed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 1, People 4. Expected $9.62, but got $9.63
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 1, People 5. Expected $9.50, got $9.50
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 2, People 1. Expected $24.50, got $24.50
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 2, People 2. Expected $15.25, got $15.25
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 2, People 3. Expected $13.50, got $13.50
+Test failed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 2, People 4. Expected $13.62, but got $13.63
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 2, People 5. Expected $14.50, got $14.50
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 3, People 1. Expected $25.50, got $25.50
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 3, People 2. Expected $17.25, got $17.25
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 3, People 3. Expected $16.50, got $16.50
+Test failed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 3, People 4. Expected $17.62, but got $17.63
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 3, People 5. Expected $19.50, got $19.50
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 4, People 1. Expected $26.50, got $26.50
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 4, People 2. Expected $19.25, got $19.25
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 4, People 3. Expected $19.50, got $19.50
+Test failed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 4, People 4. Expected $21.62, but got $21.63
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 4, People 5. Expected $24.50, got $24.50
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 5, People 1. Expected $27.50, got $27.50
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 5, People 2. Expected $21.25, got $21.25
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 5, People 3. Expected $22.50, got $22.50
+Test failed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 5, People 4. Expected $25.62, but got $25.63
+Test passed: Bill 150, Service Quality 15% - It was OK, Music Satisfaction 5, People 5. Expected $29.50, got $29.50
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 1, People 1. Expected $16.00, got $16.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 1, People 2. Expected $9.50, got $9.50
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 1, People 3. Expected $8.00, got $8.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 1, People 4. Expected $7.75, got $7.75
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 1, People 5. Expected $8.00, got $8.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 2, People 1. Expected $17.00, got $17.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 2, People 2. Expected $11.50, got $11.50
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 2, People 3. Expected $11.00, got $11.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 2, People 4. Expected $11.75, got $11.75
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 2, People 5. Expected $13.00, got $13.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 3, People 1. Expected $18.00, got $18.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 3, People 2. Expected $13.50, got $13.50
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 3, People 3. Expected $14.00, got $14.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 3, People 4. Expected $15.75, got $15.75
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 3, People 5. Expected $18.00, got $18.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 4, People 1. Expected $19.00, got $19.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 4, People 2. Expected $15.50, got $15.50
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 4, People 3. Expected $17.00, got $17.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 4, People 4. Expected $19.75, got $19.75
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 4, People 5. Expected $23.00, got $23.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 5, People 1. Expected $20.00, got $20.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 5, People 2. Expected $17.50, got $17.50
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 5, People 3. Expected $20.00, got $20.00
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 5, People 4. Expected $23.75, got $23.75
+Test passed: Bill 150, Service Quality 10% - Bad, Music Satisfaction 5, People 5. Expected $28.00, got $28.00
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 1, People 1. Expected $8.50, got $8.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 1, People 2. Expected $5.75, got $5.75
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 1, People 3. Expected $5.50, got $5.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 1, People 4. Expected $5.88, got $5.88
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 1, People 5. Expected $6.50, got $6.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 2, People 1. Expected $9.50, got $9.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 2, People 2. Expected $7.75, got $7.75
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 2, People 3. Expected $8.50, got $8.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 2, People 4. Expected $9.88, got $9.88
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 2, People 5. Expected $11.50, got $11.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 3, People 1. Expected $10.50, got $10.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 3, People 2. Expected $9.75, got $9.75
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 3, People 3. Expected $11.50, got $11.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 3, People 4. Expected $13.88, got $13.88
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 3, People 5. Expected $16.50, got $16.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 4, People 1. Expected $11.50, got $11.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 4, People 2. Expected $11.75, got $11.75
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 4, People 3. Expected $14.50, got $14.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 4, People 4. Expected $17.88, got $17.88
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 4, People 5. Expected $21.50, got $21.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 5, People 1. Expected $12.50, got $12.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 5, People 2. Expected $13.75, got $13.75
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 5, People 3. Expected $17.50, got $17.50
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 5, People 4. Expected $21.88, got $21.88
+Test passed: Bill 150, Service Quality 5% - Terrible, Music Satisfaction 5, People 5. Expected $26.50, got $26.50
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 1, People 1. Expected $61.00, got $61.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 1, People 2. Expected $32.00, got $32.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 1, People 3. Expected $23.00, got $23.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 1, People 4. Expected $19.00, got $19.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 1, People 5. Expected $17.00, got $17.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 2, People 1. Expected $62.00, got $62.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 2, People 2. Expected $34.00, got $34.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 2, People 3. Expected $26.00, got $26.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 2, People 4. Expected $23.00, got $23.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 2, People 5. Expected $22.00, got $22.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 3, People 1. Expected $63.00, got $63.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 3, People 2. Expected $36.00, got $36.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 3, People 3. Expected $29.00, got $29.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 3, People 4. Expected $27.00, got $27.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 3, People 5. Expected $27.00, got $27.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 4, People 1. Expected $64.00, got $64.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 4, People 2. Expected $38.00, got $38.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 4, People 3. Expected $32.00, got $32.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 4, People 4. Expected $31.00, got $31.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 4, People 5. Expected $32.00, got $32.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 5, People 1. Expected $65.00, got $65.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 5, People 2. Expected $40.00, got $40.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 5, People 3. Expected $35.00, got $35.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 5, People 4. Expected $35.00, got $35.00
+Test passed: Bill 200, Service Quality 30% - Outstanding, Music Satisfaction 5, People 5. Expected $37.00, got $37.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 1, People 1. Expected $41.00, got $41.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 1, People 2. Expected $22.00, got $22.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 1, People 3. Expected $16.33, got $16.33
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 1, People 4. Expected $14.00, got $14.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 1, People 5. Expected $13.00, got $13.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 2, People 1. Expected $42.00, got $42.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 2, People 2. Expected $24.00, got $24.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 2, People 3. Expected $19.33, got $19.33
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 2, People 4. Expected $18.00, got $18.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 2, People 5. Expected $18.00, got $18.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 3, People 1. Expected $43.00, got $43.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 3, People 2. Expected $26.00, got $26.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 3, People 3. Expected $22.33, got $22.33
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 3, People 4. Expected $22.00, got $22.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 3, People 5. Expected $23.00, got $23.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 4, People 1. Expected $44.00, got $44.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 4, People 2. Expected $28.00, got $28.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 4, People 3. Expected $25.33, got $25.33
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 4, People 4. Expected $26.00, got $26.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 4, People 5. Expected $28.00, got $28.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 5, People 1. Expected $45.00, got $45.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 5, People 2. Expected $30.00, got $30.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 5, People 3. Expected $28.33, got $28.33
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 5, People 4. Expected $30.00, got $30.00
+Test passed: Bill 200, Service Quality 20% - Good, Music Satisfaction 5, People 5. Expected $33.00, got $33.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 1, People 1. Expected $31.00, got $31.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 1, People 2. Expected $17.00, got $17.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 1, People 3. Expected $13.00, got $13.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 1, People 4. Expected $11.50, got $11.50
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 1, People 5. Expected $11.00, got $11.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 2, People 1. Expected $32.00, got $32.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 2, People 2. Expected $19.00, got $19.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 2, People 3. Expected $16.00, got $16.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 2, People 4. Expected $15.50, got $15.50
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 2, People 5. Expected $16.00, got $16.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 3, People 1. Expected $33.00, got $33.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 3, People 2. Expected $21.00, got $21.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 3, People 3. Expected $19.00, got $19.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 3, People 4. Expected $19.50, got $19.50
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 3, People 5. Expected $21.00, got $21.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 4, People 1. Expected $34.00, got $34.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 4, People 2. Expected $23.00, got $23.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 4, People 3. Expected $22.00, got $22.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 4, People 4. Expected $23.50, got $23.50
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 4, People 5. Expected $26.00, got $26.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 5, People 1. Expected $35.00, got $35.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 5, People 2. Expected $25.00, got $25.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 5, People 3. Expected $25.00, got $25.00
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 5, People 4. Expected $27.50, got $27.50
+Test passed: Bill 200, Service Quality 15% - It was OK, Music Satisfaction 5, People 5. Expected $31.00, got $31.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 1, People 1. Expected $21.00, got $21.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 1, People 2. Expected $12.00, got $12.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 1, People 3. Expected $9.67, got $9.67
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 1, People 4. Expected $9.00, got $9.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 1, People 5. Expected $9.00, got $9.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 2, People 1. Expected $22.00, got $22.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 2, People 2. Expected $14.00, got $14.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 2, People 3. Expected $12.67, got $12.67
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 2, People 4. Expected $13.00, got $13.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 2, People 5. Expected $14.00, got $14.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 3, People 1. Expected $23.00, got $23.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 3, People 2. Expected $16.00, got $16.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 3, People 3. Expected $15.67, got $15.67
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 3, People 4. Expected $17.00, got $17.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 3, People 5. Expected $19.00, got $19.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 4, People 1. Expected $24.00, got $24.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 4, People 2. Expected $18.00, got $18.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 4, People 3. Expected $18.67, got $18.67
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 4, People 4. Expected $21.00, got $21.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 4, People 5. Expected $24.00, got $24.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 5, People 1. Expected $25.00, got $25.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 5, People 2. Expected $20.00, got $20.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 5, People 3. Expected $21.67, got $21.67
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 5, People 4. Expected $25.00, got $25.00
+Test passed: Bill 200, Service Quality 10% - Bad, Music Satisfaction 5, People 5. Expected $29.00, got $29.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 1, People 1. Expected $11.00, got $11.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 1, People 2. Expected $7.00, got $7.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 1, People 3. Expected $6.33, got $6.33
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 1, People 4. Expected $6.50, got $6.50
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 1, People 5. Expected $7.00, got $7.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 2, People 1. Expected $12.00, got $12.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 2, People 2. Expected $9.00, got $9.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 2, People 3. Expected $9.33, got $9.33
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 2, People 4. Expected $10.50, got $10.50
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 2, People 5. Expected $12.00, got $12.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 3, People 1. Expected $13.00, got $13.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 3, People 2. Expected $11.00, got $11.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 3, People 3. Expected $12.33, got $12.33
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 3, People 4. Expected $14.50, got $14.50
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 3, People 5. Expected $17.00, got $17.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 4, People 1. Expected $14.00, got $14.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 4, People 2. Expected $13.00, got $13.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 4, People 3. Expected $15.33, got $15.33
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 4, People 4. Expected $18.50, got $18.50
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 4, People 5. Expected $22.00, got $22.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 5, People 1. Expected $15.00, got $15.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 5, People 2. Expected $15.00, got $15.00
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 5, People 3. Expected $18.33, got $18.33
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 5, People 4. Expected $22.50, got $22.50
+Test passed: Bill 200, Service Quality 5% - Terrible, Music Satisfaction 5, People 5. Expected $27.00, got $27.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 1, People 1. Expected $76.00, got $76.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 1, People 2. Expected $39.50, got $39.50
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 1, People 3. Expected $28.00, got $28.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 1, People 4. Expected $22.75, got $22.75
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 1, People 5. Expected $20.00, got $20.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 2, People 1. Expected $77.00, got $77.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 2, People 2. Expected $41.50, got $41.50
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 2, People 3. Expected $31.00, got $31.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 2, People 4. Expected $26.75, got $26.75
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 2, People 5. Expected $25.00, got $25.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 3, People 1. Expected $78.00, got $78.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 3, People 2. Expected $43.50, got $43.50
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 3, People 3. Expected $34.00, got $34.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 3, People 4. Expected $30.75, got $30.75
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 3, People 5. Expected $30.00, got $30.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 4, People 1. Expected $79.00, got $79.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 4, People 2. Expected $45.50, got $45.50
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 4, People 3. Expected $37.00, got $37.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 4, People 4. Expected $34.75, got $34.75
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 4, People 5. Expected $35.00, got $35.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 5, People 1. Expected $80.00, got $80.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 5, People 2. Expected $47.50, got $47.50
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 5, People 3. Expected $40.00, got $40.00
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 5, People 4. Expected $38.75, got $38.75
+Test passed: Bill 250, Service Quality 30% - Outstanding, Music Satisfaction 5, People 5. Expected $40.00, got $40.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 1, People 1. Expected $51.00, got $51.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 1, People 2. Expected $27.00, got $27.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 1, People 3. Expected $19.67, got $19.67
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 1, People 4. Expected $16.50, got $16.50
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 1, People 5. Expected $15.00, got $15.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 2, People 1. Expected $52.00, got $52.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 2, People 2. Expected $29.00, got $29.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 2, People 3. Expected $22.67, got $22.67
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 2, People 4. Expected $20.50, got $20.50
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 2, People 5. Expected $20.00, got $20.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 3, People 1. Expected $53.00, got $53.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 3, People 2. Expected $31.00, got $31.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 3, People 3. Expected $25.67, got $25.67
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 3, People 4. Expected $24.50, got $24.50
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 3, People 5. Expected $25.00, got $25.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 4, People 1. Expected $54.00, got $54.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 4, People 2. Expected $33.00, got $33.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 4, People 3. Expected $28.67, got $28.67
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 4, People 4. Expected $28.50, got $28.50
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 4, People 5. Expected $30.00, got $30.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 5, People 1. Expected $55.00, got $55.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 5, People 2. Expected $35.00, got $35.00
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 5, People 3. Expected $31.67, got $31.67
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 5, People 4. Expected $32.50, got $32.50
+Test passed: Bill 250, Service Quality 20% - Good, Music Satisfaction 5, People 5. Expected $35.00, got $35.00
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 1, People 1. Expected $38.50, got $38.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 1, People 2. Expected $20.75, got $20.75
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 1, People 3. Expected $15.50, got $15.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 1, People 4. Expected $13.38, got $13.38
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 1, People 5. Expected $12.50, got $12.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 2, People 1. Expected $39.50, got $39.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 2, People 2. Expected $22.75, got $22.75
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 2, People 3. Expected $18.50, got $18.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 2, People 4. Expected $17.38, got $17.38
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 2, People 5. Expected $17.50, got $17.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 3, People 1. Expected $40.50, got $40.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 3, People 2. Expected $24.75, got $24.75
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 3, People 3. Expected $21.50, got $21.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 3, People 4. Expected $21.38, got $21.38
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 3, People 5. Expected $22.50, got $22.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 4, People 1. Expected $41.50, got $41.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 4, People 2. Expected $26.75, got $26.75
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 4, People 3. Expected $24.50, got $24.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 4, People 4. Expected $25.38, got $25.38
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 4, People 5. Expected $27.50, got $27.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 5, People 1. Expected $42.50, got $42.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 5, People 2. Expected $28.75, got $28.75
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 5, People 3. Expected $27.50, got $27.50
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 5, People 4. Expected $29.38, got $29.38
+Test passed: Bill 250, Service Quality 15% - It was OK, Music Satisfaction 5, People 5. Expected $32.50, got $32.50
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 1, People 1. Expected $26.00, got $26.00
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 1, People 2. Expected $14.50, got $14.50
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 1, People 3. Expected $11.33, got $11.33
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 1, People 4. Expected $10.25, got $10.25
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 1, People 5. Expected $10.00, got $10.00
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 2, People 1. Expected $27.00, got $27.00
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 2, People 2. Expected $16.50, got $16.50
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 2, People 3. Expected $14.33, got $14.33
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 2, People 4. Expected $14.25, got $14.25
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 2, People 5. Expected $15.00, got $15.00
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 3, People 1. Expected $28.00, got $28.00
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 3, People 2. Expected $18.50, got $18.50
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 3, People 3. Expected $17.33, got $17.33
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 3, People 4. Expected $18.25, got $18.25
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 3, People 5. Expected $20.00, got $20.00
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 4, People 1. Expected $29.00, got $29.00
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 4, People 2. Expected $20.50, got $20.50
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 4, People 3. Expected $20.33, got $20.33
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 4, People 4. Expected $22.25, got $22.25
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 4, People 5. Expected $25.00, got $25.00
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 5, People 1. Expected $30.00, got $30.00
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 5, People 2. Expected $22.50, got $22.50
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 5, People 3. Expected $23.33, got $23.33
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 5, People 4. Expected $26.25, got $26.25
+Test passed: Bill 250, Service Quality 10% - Bad, Music Satisfaction 5, People 5. Expected $30.00, got $30.00
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 1, People 1. Expected $13.50, got $13.50
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 1, People 2. Expected $8.25, got $8.25
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 1, People 3. Expected $7.17, got $7.17
+Test failed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 1, People 4. Expected $7.12, but got $7.13
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 1, People 5. Expected $7.50, got $7.50
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 2, People 1. Expected $14.50, got $14.50
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 2, People 2. Expected $10.25, got $10.25
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 2, People 3. Expected $10.17, got $10.17
+Test failed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 2, People 4. Expected $11.12, but got $11.13
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 2, People 5. Expected $12.50, got $12.50
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 3, People 1. Expected $15.50, got $15.50
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 3, People 2. Expected $12.25, got $12.25
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 3, People 3. Expected $13.17, got $13.17
+Test failed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 3, People 4. Expected $15.12, but got $15.13
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 3, People 5. Expected $17.50, got $17.50
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 4, People 1. Expected $16.50, got $16.50
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 4, People 2. Expected $14.25, got $14.25
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 4, People 3. Expected $16.17, got $16.17
+Test failed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 4, People 4. Expected $19.12, but got $19.13
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 4, People 5. Expected $22.50, got $22.50
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 5, People 1. Expected $17.50, got $17.50
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 5, People 2. Expected $16.25, got $16.25
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 5, People 3. Expected $19.17, got $19.17
+Test failed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 5, People 4. Expected $23.12, but got $23.13
+Test passed: Bill 250, Service Quality 5% - Terrible, Music Satisfaction 5, People 5. Expected $27.50, got $27.50
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 1, People 1. Expected $91.00, got $91.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 1, People 2. Expected $47.00, got $47.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 1, People 3. Expected $33.00, got $33.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 1, People 4. Expected $26.50, got $26.50
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 1, People 5. Expected $23.00, got $23.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 2, People 1. Expected $92.00, got $92.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 2, People 2. Expected $49.00, got $49.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 2, People 3. Expected $36.00, got $36.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 2, People 4. Expected $30.50, got $30.50
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 2, People 5. Expected $28.00, got $28.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 3, People 1. Expected $93.00, got $93.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 3, People 2. Expected $51.00, got $51.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 3, People 3. Expected $39.00, got $39.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 3, People 4. Expected $34.50, got $34.50
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 3, People 5. Expected $33.00, got $33.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 4, People 1. Expected $94.00, got $94.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 4, People 2. Expected $53.00, got $53.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 4, People 3. Expected $42.00, got $42.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 4, People 4. Expected $38.50, got $38.50
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 4, People 5. Expected $38.00, got $38.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 5, People 1. Expected $95.00, got $95.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 5, People 2. Expected $55.00, got $55.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 5, People 3. Expected $45.00, got $45.00
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 5, People 4. Expected $42.50, got $42.50
+Test passed: Bill 300, Service Quality 30% - Outstanding, Music Satisfaction 5, People 5. Expected $43.00, got $43.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 1, People 1. Expected $61.00, got $61.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 1, People 2. Expected $32.00, got $32.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 1, People 3. Expected $23.00, got $23.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 1, People 4. Expected $19.00, got $19.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 1, People 5. Expected $17.00, got $17.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 2, People 1. Expected $62.00, got $62.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 2, People 2. Expected $34.00, got $34.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 2, People 3. Expected $26.00, got $26.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 2, People 4. Expected $23.00, got $23.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 2, People 5. Expected $22.00, got $22.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 3, People 1. Expected $63.00, got $63.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 3, People 2. Expected $36.00, got $36.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 3, People 3. Expected $29.00, got $29.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 3, People 4. Expected $27.00, got $27.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 3, People 5. Expected $27.00, got $27.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 4, People 1. Expected $64.00, got $64.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 4, People 2. Expected $38.00, got $38.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 4, People 3. Expected $32.00, got $32.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 4, People 4. Expected $31.00, got $31.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 4, People 5. Expected $32.00, got $32.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 5, People 1. Expected $65.00, got $65.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 5, People 2. Expected $40.00, got $40.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 5, People 3. Expected $35.00, got $35.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 5, People 4. Expected $35.00, got $35.00
+Test passed: Bill 300, Service Quality 20% - Good, Music Satisfaction 5, People 5. Expected $37.00, got $37.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 1, People 1. Expected $46.00, got $46.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 1, People 2. Expected $24.50, got $24.50
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 1, People 3. Expected $18.00, got $18.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 1, People 4. Expected $15.25, got $15.25
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 1, People 5. Expected $14.00, got $14.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 2, People 1. Expected $47.00, got $47.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 2, People 2. Expected $26.50, got $26.50
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 2, People 3. Expected $21.00, got $21.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 2, People 4. Expected $19.25, got $19.25
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 2, People 5. Expected $19.00, got $19.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 3, People 1. Expected $48.00, got $48.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 3, People 2. Expected $28.50, got $28.50
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 3, People 3. Expected $24.00, got $24.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 3, People 4. Expected $23.25, got $23.25
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 3, People 5. Expected $24.00, got $24.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 4, People 1. Expected $49.00, got $49.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 4, People 2. Expected $30.50, got $30.50
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 4, People 3. Expected $27.00, got $27.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 4, People 4. Expected $27.25, got $27.25
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 4, People 5. Expected $29.00, got $29.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 5, People 1. Expected $50.00, got $50.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 5, People 2. Expected $32.50, got $32.50
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 5, People 3. Expected $30.00, got $30.00
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 5, People 4. Expected $31.25, got $31.25
+Test passed: Bill 300, Service Quality 15% - It was OK, Music Satisfaction 5, People 5. Expected $34.00, got $34.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 1, People 1. Expected $31.00, got $31.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 1, People 2. Expected $17.00, got $17.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 1, People 3. Expected $13.00, got $13.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 1, People 4. Expected $11.50, got $11.50
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 1, People 5. Expected $11.00, got $11.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 2, People 1. Expected $32.00, got $32.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 2, People 2. Expected $19.00, got $19.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 2, People 3. Expected $16.00, got $16.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 2, People 4. Expected $15.50, got $15.50
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 2, People 5. Expected $16.00, got $16.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 3, People 1. Expected $33.00, got $33.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 3, People 2. Expected $21.00, got $21.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 3, People 3. Expected $19.00, got $19.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 3, People 4. Expected $19.50, got $19.50
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 3, People 5. Expected $21.00, got $21.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 4, People 1. Expected $34.00, got $34.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 4, People 2. Expected $23.00, got $23.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 4, People 3. Expected $22.00, got $22.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 4, People 4. Expected $23.50, got $23.50
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 4, People 5. Expected $26.00, got $26.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 5, People 1. Expected $35.00, got $35.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 5, People 2. Expected $25.00, got $25.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 5, People 3. Expected $25.00, got $25.00
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 5, People 4. Expected $27.50, got $27.50
+Test passed: Bill 300, Service Quality 10% - Bad, Music Satisfaction 5, People 5. Expected $31.00, got $31.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 1, People 1. Expected $16.00, got $16.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 1, People 2. Expected $9.50, got $9.50
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 1, People 3. Expected $8.00, got $8.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 1, People 4. Expected $7.75, got $7.75
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 1, People 5. Expected $8.00, got $8.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 2, People 1. Expected $17.00, got $17.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 2, People 2. Expected $11.50, got $11.50
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 2, People 3. Expected $11.00, got $11.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 2, People 4. Expected $11.75, got $11.75
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 2, People 5. Expected $13.00, got $13.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 3, People 1. Expected $18.00, got $18.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 3, People 2. Expected $13.50, got $13.50
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 3, People 3. Expected $14.00, got $14.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 3, People 4. Expected $15.75, got $15.75
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 3, People 5. Expected $18.00, got $18.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 4, People 1. Expected $19.00, got $19.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 4, People 2. Expected $15.50, got $15.50
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 4, People 3. Expected $17.00, got $17.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 4, People 4. Expected $19.75, got $19.75
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 4, People 5. Expected $23.00, got $23.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 5, People 1. Expected $20.00, got $20.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 5, People 2. Expected $17.50, got $17.50
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 5, People 3. Expected $20.00, got $20.00
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 5, People 4. Expected $23.75, got $23.75
+Test passed: Bill 300, Service Quality 5% - Terrible, Music Satisfaction 5, People 5. Expected $28.00, got $28.00

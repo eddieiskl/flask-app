@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+</head>
+<body>
+    <h1>Hello {{ player_name }} and welcome to the World of Games (WoG).</h1>
+    <p>Here you can find many cool games to play.</p>
+    <form action="/select_game" method="GET">
+        <input type="hidden" name="player_name" value="{{ player_name }}">
+        <button type="submit">Continue</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,28 @@
+version: '3'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5001:80"  # Change 5000 to 5001 or any other available port
+    depends_on:
+      - memory_game
+      - currency_roulette_game
+      - guess_game
+
+  memory_game:
+    build:
+      context: .
+      dockerfile: Dockerfile.memory_game
+
+  currency_roulette_game:
+    build:
+      context: .
+      dockerfile: Dockerfile.currency_roulette_game
+
+  guess_game:
+    build:
+      context: .
+      dockerfile: Dockerfile.guess_game
