@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  superset:
+    image: amancevice/superset
+    ports:
+      - "8088:5000"  # External port 8088 mapped to internal port 5000
+    volumes:
+      - /Users/MacBook/PycharmProjects/Homework\ 10/superset_config.py:/app/pythonpath/superset_config.py
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000"]
+      interval: 30s
+      retries: 3
+      start_period: 30s
+      timeout: 10s
